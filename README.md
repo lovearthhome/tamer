@@ -4,17 +4,15 @@ Tamer是爱蓝地球工作室易明雨开发的人体步态识别辅助学习APP
 <img src="https://avatars3.githubusercontent.com/u/16535358?v=3&s=466" width = "256" height = "256" alt="蓝地球工作室图标" align=center />
 爱蓝地球工作室
 
+<img src="https://avatars0.githubusercontent.com/u/2186283?v=3&s=400" width = "256" height = "256" alt="易明雨" align=center />
+易明雨
+
+本APP主要用来帮助人体步态识别的初学者对步态行为有初步感性的了解。功能包括：
+1：采集步态数据，绘制出波形。
+2：对数据进行FFT操作，绘制出频谱。
+3：把样本数据上传到步态云服务器里。
+4：浏览云服务器里各种人的步态数据（不同年龄段，体重，时间段）。
 
 
-主要功能包括 计步数据采样，本地数据库查看筛选，服务器数据查看，采样设置等。
-采样之前先修改好测试人的相关资源，包括年龄、性别、身高、体重。
-<img src="https://github.com/yimingyu/tamer/blob/master/screenshot/Screenshot_20161013-210935.png" width = "270" height = "480" alt="图片名称" align=center />
-
-![image](https://github.com/yimingyu/tamer/blob/master/screenshot/Screenshot_20161013-211005.png)
-![image](https://github.com/yimingyu/tamer/blob/master/screenshot/Screenshot_20161013-211842.png)
-![image](https://github.com/yimingyu/tamer/blob/master/screenshot/Screenshot_20161013-211931.png)
-![image](https://github.com/yimingyu/tamer/blob/master/screenshot/Screenshot_20161013-211944.png)
-![image](https://github.com/yimingyu/tamer/blob/master/screenshot/Screenshot_20161013-212022.png)
-![image](https://github.com/yimingyu/tamer/blob/master/screenshot/Screenshot_20161013-212045.png)
 
 
