@@ -40,7 +40,8 @@ Tamer是爱蓝地球工作室易明雨开发的人体步态识别辅助学习APP
 
 ##机器学习公众号
 爱蓝地球工作室推出的机器学习公众号
-https://mp.weixin.qq.com/misc/getqrcode?fakeid=3292418158&token=1195167293&style=1
+
+<img src="https://mp.weixin.qq.com/misc/getqrcode?fakeid=3292418158&token=1195167293&style=1" />
 
 
 
