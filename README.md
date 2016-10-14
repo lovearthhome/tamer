@@ -20,12 +20,22 @@ Tamer是爱蓝地球工作室易明雨开发的人体步态识别辅助学习APP
 ##截图预览
 
 <img src="https://github.com/lovearthhome/tamer/blob/master/screenshot/%E5%9B%BE%E7%89%871.png?raw=true" />
-步行和跑步的区别
+#HandFixed指走路时注视手机。HandSwing指走路时自然摆动（手机持于手中）
 
 <img src="https://github.com/lovearthhome/tamer/blob/master/screenshot/%E5%9B%BE%E7%89%872.png?raw=true" />
-手机放置在口袋，胸呆
+#手机放置在裤口袋（Pant Pocaket），腰包（固定在腰部）的区别
 
 <img src="https://github.com/lovearthhome/tamer/blob/master/screenshot/%E5%9B%BE%E7%89%873.png?raw=true" />
-爬楼梯和下楼梯的区别
+#一个女性，把手机放置在上衣口袋，爬楼梯和下楼梯时的步态区别。
+
+###注
+1.  本APP目前仍未完版，主要由易明雨维护。明雨现在在找工作。最近时间可能跟不上。
+2.  目前只在安卓平台编译过。没有编译过ios版本。有兴趣的人可以一起协作出ios版本。
+3.  在线识别功能很快就会开放。
+4.  目前文档还没编写。后续补齐。
+5.  非常欢迎志同道合者一起开发维护。
+
+####apk下载 [驯兽师APK](https://github.com/lovearthhome/tamer/blob/master/tamer.apk)
+
 
 
