@@ -38,4 +38,9 @@ Tamer是爱蓝地球工作室易明雨开发的人体步态识别辅助学习APP
 ####apk下载 [驯兽师APK](https://github.com/lovearthhome/tamer/blob/master/tamer.apk)
 
 
+##机器学习公众号
+爱蓝地球工作室推出的机器学习公众号
+https://mp.weixin.qq.com/misc/getqrcode?fakeid=3292418158&token=1195167293&style=1
+
+
 
