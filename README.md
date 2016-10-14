@@ -1,5 +1,5 @@
 ### Tamer(驯兽师)
-Tamer是爱蓝地球工作室易明雨开发的人体步态识别辅助学习APP.本APP用Ionic+angularJs+cordova架构开发。开发语言主要为javascript。本APP主要用来帮助人体步态识别的初学者对步态行为有初步感性的了解。
+Tamer是中科院计算所普适中心爱蓝地球工作室易明雨开发的人体步态识别辅助学习APP.本APP用Ionic+angularJs+cordova架构开发。开发语言主要为javascript。本APP主要用来帮助人体步态识别的初学者对步态行为有初步感性的了解。
 
 <span>
 <img src="https://avatars3.githubusercontent.com/u/16535358?v=3&s=466" width = "256" height = "256" alt="蓝地球工作室图标" align=center />
