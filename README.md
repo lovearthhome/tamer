@@ -20,13 +20,13 @@ Tamer是爱蓝地球工作室易明雨开发的人体步态识别辅助学习APP
 ##截图预览
 
 <img src="https://github.com/lovearthhome/tamer/blob/master/screenshot/%E5%9B%BE%E7%89%871.png?raw=true" />
-#HandFixed指走路时注视手机。HandSwing指走路时自然摆动（手机持于手中）
+##HandFixed指走路时注视手机。HandSwing指走路时自然摆动（手机持于手中）
 
 <img src="https://github.com/lovearthhome/tamer/blob/master/screenshot/%E5%9B%BE%E7%89%872.png?raw=true" />
-#手机放置在裤口袋（Pant Pocaket），腰包（固定在腰部）的区别
+##手机放置在裤口袋（Pant Pocaket），腰包（固定在腰部）的区别
 
 <img src="https://github.com/lovearthhome/tamer/blob/master/screenshot/%E5%9B%BE%E7%89%873.png?raw=true" />
-#一个女性，把手机放置在上衣口袋，爬楼梯和下楼梯时的步态区别。
+##一个女性，把手机放置在上衣口袋，爬楼梯和下楼梯时的步态区别。
 
 ###注
 1.  本APP目前仍未完版，主要由易明雨维护。明雨现在在找工作。最近时间可能跟不上。
@@ -41,7 +41,7 @@ Tamer是爱蓝地球工作室易明雨开发的人体步态识别辅助学习APP
 ##机器学习公众号
 爱蓝地球工作室推出的机器学习公众号
 
-<img src="https://mp.weixin.qq.com/misc/getqrcode?fakeid=3292418158&token=1195167293&style=1" />
+<img src="https://github.com/lovearthhome/tamer/blob/master/screenshot/logo.jpg" />
 
 
 
