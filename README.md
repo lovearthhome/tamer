@@ -11,11 +11,21 @@ Tamer是爱蓝地球工作室易明雨开发的人体步态识别辅助学习APP
 </span>
 
 ##功能包括：
-1：采集步态数据，绘制出波形。
-2：对数据进行FFT操作，绘制出频谱。
-3：把样本数据上传到步态云服务器里。
-4：浏览云服务器里各种人的步态数据（不同年龄段，体重，时间段）。
+1.  采集手机加速度数据，绘制出步态波形。
+2.  对数据进行FFT操作，绘制出频谱。
+3.  把样本数据上传到步态云服务器里。
+4.  浏览云服务器里各种人的步态数据（不同年龄段，体重，时间段）。
 
 
+##截图预览
+
+<img src="https://github.com/lovearthhome/tamer/blob/master/screenshot/%E5%9B%BE%E7%89%871.png?raw=true" />
+步行和跑步的区别
+
+<img src="https://github.com/lovearthhome/tamer/blob/master/screenshot/%E5%9B%BE%E7%89%872.png?raw=true" />
+手机放置在口袋，胸呆
+
+<img src="https://github.com/lovearthhome/tamer/blob/master/screenshot/%E5%9B%BE%E7%89%873.png?raw=true" />
+爬楼梯和下楼梯的区别
 
 
